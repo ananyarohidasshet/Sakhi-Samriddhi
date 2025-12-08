@@ -2,8 +2,11 @@
 
 
 AI-Powered Menstrual Cycle Prediction Tool
+
 Project Overview
 This project aims to develop an AI-powered menstrual cycle prediction tool that empowers women to take charge of their reproductive health. The tool utilizes machine learning to analyze major health factors and lifestyle patterns, enabling women to make informed decisions about their reproductive health. The tool was trained on a vast dataset, achieving an impressive accuracy of over 85% in a short timeframe.
+
+
 
 Key Features
 AI-powered menstrual cycle prediction: The tool utilizes machine learning to predict menstrual cycles based on major health factors and lifestyle patterns.
